@@ -1,0 +1,2 @@
+000-0349a49	TKD 11-1289b	buddhist/K-koreana/11-tif/1200-1299/11_1289_B.TIF
+000-0349c11	TKD 11-1289c	buddhist/K-koreana/11-tif/1200-1299/11_1289_C.TIF
